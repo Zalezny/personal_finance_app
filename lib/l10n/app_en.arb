@@ -1,0 +1,17 @@
+{
+    "pageTitle": "Your Balance",
+    "dateColumn": "Date",
+    "descriptionColumn": "Description",
+    "amountColumn": "Amount",
+    "addTransactionTitle": "Add Transaction",
+    "titleInputField": "Title",
+    "amountInputField": "Amount",
+    "typeInputField": "Type",
+    "dateInputField": "Select Date",
+    "addButton": "Submit",
+    "cancelButton": "Cancel",
+    "invalidMessage": "Invalid input",
+    "invalidAmount": "Please enter an amount",
+    "invalidNumber": "Please enter a valid number",
+    "invalidTitle": "Please enter a title"
+}
